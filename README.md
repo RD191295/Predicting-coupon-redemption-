@@ -1,4 +1,4 @@
-# Predicting-coupon-redemption-
+# Predicting-coupon-redemption
 
 Historical data utilised in producing coupons over several weeks is known for the task. One coupon, for example, applies to a single product. Furthermore, orders are still generated in response to the generation, including information on which coupons have been used and the overall basket value of each transaction. Using this data, a model for predicting coupon redemption and the total basket value should be learned. The target attributes "coupon 1 Used", "coupon2Used", and "coupon3Used" are described with the value "0" for coupons not redeemed and the value "1" for coupons redeemed. 
 
