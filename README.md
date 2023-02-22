@@ -8,15 +8,16 @@
   The submission file should contain only one attribute, “CouponCombination”. It contains the decimal conversion of the combination of  "coupon1Used", "coupon2Used", and "coupon3Used". For example, if a customer uses coupons 1 and 3. The data representation for this condition would be “coupon 1 Used” reflects 1, “coupon 2 Used” reflects 0, and “coupon 3 Used” reflects 1. So in binary, this combination would represent 101. When converted to decimal format, it would be 5. Refer to the below table.
 
 ## Data :
-Train: 4237 x 33
-Test: 1816 x 33
-Data Dictionary:
+# Train: 4237 x 33
+# Test: 1816 x 33
+
+## Data Dictionary:
 Output feature: coupon{n}Used: Indicator for the coupon which is redeemed 0 (did not redeem) and 1(did redeem).
 
-Input feature:
+## Input feature:
 
-orderID : Order unique identification number
-orderTime : The time of order placed
+# orderID : Order unique identification number
+# orderTime : The time of order placed
 userID : The unique identification number of the customer
 couponID{n} : Identifier for the coupon, “n” ranges from 1 to 3
 price{n} : Current price of the coupon, “n” ranges from 1 to 3
