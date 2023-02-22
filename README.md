@@ -1,5 +1,4 @@
-# AI Student of the Year - ML Challenge[2023] By Machine Hack
-# Predicting-coupon-redemption [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Atcold/pytorch-Deep-Learning/master)
+# AI Student of the Year - ML Challenge[2023] By Machine Hack [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Atcold/pytorch-Deep-Learning/master)
 
 
 ## Introduction :
